@@ -58,7 +58,7 @@ header {
 }
 
 main {
-    margin: 300px auto 110px 10px;
+    margin: 300px 10px 110px auto;
 }
 
 .main-section {
@@ -66,7 +66,7 @@ main {
 }
 
 article {
-    margin-left: 20px;
+    margin: auto 10px auto 20px;
 }
 
 .main-section header {
@@ -86,9 +86,19 @@ article {
 
 .paint-swatch {
     position: relative;
-    bottom: 1px;
-    font-size: 16px;
+    margin-left: 15px;
+    margin-right: 5px; 
 }
+
+.paint-swatch:after {
+    content: "■";
+    position: absolute;
+    left: -15px;
+    top: -17px;
+    font-size: 32px;
+}
+
+
 
 .stirland-battlemire {
     color: #5D4038);
@@ -160,6 +170,19 @@ article {
 
 .druchii-violet {
     color: #4F2E51;
+}
+
+.wraithbone {
+    color: #DBD1B2;
+}
+
+.plaguebearer-flesh {
+    color: #8E9B50;
+}
+
+footer {
+    height: 50px;
+    margin: auto auto 5px 5px;
 }
 
 #monogram {

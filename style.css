@@ -87,18 +87,16 @@ article {
 .paint-swatch {
     position: relative;
     margin-left: 15px;
-    margin-right: 5px; 
+    margin-right: 8px; 
 }
 
-.paint-swatch:after {
+.paint-swatch::after {
     content: "■";
     position: absolute;
     left: -15px;
     top: -17px;
     font-size: 32px;
 }
-
-
 
 .stirland-battlemire {
     color: #5D4038);

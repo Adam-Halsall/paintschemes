@@ -14,12 +14,16 @@ header {
     color: black;
 }
 
+#page-title {
+    margin-bottom: 0px;
+    text-align: center;
+    font-family: Pirata One, Open-sans, sans-serif;
+    font-size: 50px;
+}
+
 #navbar {
     position: absolute;
-    /*
-    top: 0;
-    */
-    margin: 20px auto 0 auto;
+    margin: 10px auto 0 auto;
     text-align: left;
     max-height: 250px;
     width: 100%;
@@ -59,4 +63,9 @@ main {
 section header {
     font-size: 24px;
     font-weight: 600;
+}
+
+.sub-heading {
+    font-size: 18px;
+    color: black;
 }

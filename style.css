@@ -8,6 +8,7 @@ body {
     color: #4d4e53;
     line-height: 1.5;
     margin: 0; 
+
 }
 
 header {
@@ -59,6 +60,7 @@ header {
 
 main {
     margin: 300px 10px 110px auto;
+    max-width: 1080px;
 }
 
 .main-section {
@@ -414,6 +416,7 @@ footer {
         margin-left: 310px;
         margin-bottom: 110px;
         padding: 20px;
+        max-width: auto;
     }
 
     #admech {

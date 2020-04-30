@@ -73,11 +73,13 @@ article {
     font-size: 24px;
     font-weight: 600;
     margin-top: 10px;
+    padding-left: 5px;;
 }
 
 .sub-heading {
     font-size: 18px;
     margin-left: -20px;
+    padding-left: 5px;
 }
 
 .sub-sub-heading-lol {
@@ -243,7 +245,7 @@ article {
 }
 
 .gorthor-brown {
-    color: #5F463F;
+    color: rgb(109, 79, 71);
 }
 
 .skrag-brown {
@@ -296,6 +298,74 @@ article {
 
 .bugmans-glow {
     color: #804C43;
+}
+
+.ork-flesh {
+    color: #006923;
+}
+
+.snakebite-leather {
+    color: #87591E;
+}
+
+.gore-grunta-fur {
+    color: #7D3E0C;
+}
+
+.wyldwood {
+    color: #5A403B;
+}
+
+.basilicanum-grey {
+    color: #5D5D5D;
+}
+
+.coelia-greenshade {
+    color: rgb(16, 143, 132);
+}
+
+.sotek-green {
+    color: rgb(11, 110, 126);
+}
+
+.temple-guard-blue {
+    color: #28c8b8;
+}
+
+.steel-legion-drab {
+    color: rgb(116, 104, 66);
+}
+
+.doombull-brown {
+    color: #570003;
+}
+
+.eshin-grey {
+    color: #484B4E;
+}
+
+.celestra-grey {
+    color: #8BA3A3;
+}
+
+.ulthuan-grey {
+    color: rgb(214, 221, 219);
+}
+
+.astrogranite {
+    color: #767675;
+}
+
+.karak-stone {
+    color: #B7945C;
+}
+
+.agrellan-badland {
+    color: #B39E80;
+}
+
+.casandora-yellow {
+    color: rgb(255, 187, 78);
 }
 
 footer {

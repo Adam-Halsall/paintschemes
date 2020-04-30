@@ -99,7 +99,7 @@ article {
 }
 
 .stirland-battlemire {
-    color: #5D4038);
+    color: rgb(93, 77, 56));
 }
 
 .averland-sunset {
@@ -107,7 +107,7 @@ article {
 }
 
 .nurgles-rot {
-    color: #9D8B16;
+    color: rgb(83, 157, 22);
 }
 
 .screaming-skull {
@@ -115,7 +115,7 @@ article {
 }
 
 .athonian-camoshade {
-    color: #707152;
+    color: #3e7439;
 }
 
 .black {
@@ -151,7 +151,7 @@ article {
 }
 
 .mournfang-brown {
-    color: #490F06;
+    color: rgb(88, 53, 7);
 }
 
 .nuln-oil {
@@ -167,7 +167,7 @@ article {
 }
 
 .druchii-violet {
-    color: #4F2E51;
+    color: rgb(86, 45, 88);
 }
 
 .wraithbone {
@@ -175,7 +175,7 @@ article {
 }
 
 .plaguebearer-flesh {
-    color: #8E9B50;
+    color: rgb(133, 190, 86);
 }
 
 .flesh-tearers-red {
@@ -184,6 +184,118 @@ article {
 
 .skeleton-horde {
     color: #C2B591;
+}
+
+.nihilakh-oxide {
+    color: rgb(66, 226, 175);
+}
+
+.biel-tan-green {
+    color: rgb(22, 136, 18); 
+}
+
+.dark-angels-green {
+    color: rgb(0, 56, 50);
+}
+
+.kabalite-green {
+    color: #008962;
+}
+
+.warboss-green {
+    color: #317E57;
+}
+
+.moot-green {
+    color: #3DAF44;
+}
+
+.mechanicus-standard-grey {
+    color: #39484A;
+}
+
+.zandri-dust {
+    color: #988E56;
+}
+
+.incubi-darkness {
+    color: #082E32;
+}
+
+.khorne-red {
+    color: #650001;
+}
+
+.rhinox-hide {
+    color: #462F30;
+}
+
+.agrax-earthshade {
+    color: rgb(82, 67, 53);
+}
+
+.wazdakka-red {
+    color: #880804;
+}
+
+.dawnstone {
+    color: #697068;
+}
+
+.gorthor-brown {
+    color: #5F463F;
+}
+
+.skrag-brown {
+    color: #8B4806;
+}
+
+.pallid-wych-flesh {
+    color: #CACCBB;
+}
+
+.sybarite-green {
+    color: #17A166;
+}
+
+.wild-rider-red {
+    color: #E82E1B;
+}
+
+.runefang-steel {
+    color: #C5CBCF;
+}
+
+.kantor-blue {
+    color: #02134E;
+}
+
+.alaitoc-blue {
+    color: #2F4F85;
+}
+
+.lothern-blue {
+    color: #2C9BCC;
+}
+
+.warpfiend-grey {
+    color: rgb(92, 89, 114);
+}
+
+.slaanesh-grey {
+    color: rgb(129, 121, 151);
+}
+
+.stegadon-scale-green {
+    color: #06455D;
+}
+
+.russ-grey {
+    color: #507085;
+}
+
+.bugmans-glow {
+    color: #804C43;
 }
 
 footer {
